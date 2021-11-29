@@ -1,0 +1,16 @@
+D:\PC\Documentos\Noel\Universidad Latina de Panamá\Cuatrimestre 6\Programacion V\Actividad sobre Funciones\bin\Debug\net5.0\Actividad sobre Funciones.exe
+D:\PC\Documentos\Noel\Universidad Latina de Panamá\Cuatrimestre 6\Programacion V\Actividad sobre Funciones\bin\Debug\net5.0\Actividad sobre Funciones.deps.json
+D:\PC\Documentos\Noel\Universidad Latina de Panamá\Cuatrimestre 6\Programacion V\Actividad sobre Funciones\bin\Debug\net5.0\Actividad sobre Funciones.runtimeconfig.json
+D:\PC\Documentos\Noel\Universidad Latina de Panamá\Cuatrimestre 6\Programacion V\Actividad sobre Funciones\bin\Debug\net5.0\Actividad sobre Funciones.runtimeconfig.dev.json
+D:\PC\Documentos\Noel\Universidad Latina de Panamá\Cuatrimestre 6\Programacion V\Actividad sobre Funciones\bin\Debug\net5.0\Actividad sobre Funciones.dll
+D:\PC\Documentos\Noel\Universidad Latina de Panamá\Cuatrimestre 6\Programacion V\Actividad sobre Funciones\bin\Debug\net5.0\ref\Actividad sobre Funciones.dll
+D:\PC\Documentos\Noel\Universidad Latina de Panamá\Cuatrimestre 6\Programacion V\Actividad sobre Funciones\bin\Debug\net5.0\Actividad sobre Funciones.pdb
+D:\PC\Documentos\Noel\Universidad Latina de Panamá\Cuatrimestre 6\Programacion V\Actividad sobre Funciones\obj\Debug\net5.0\Actividad sobre Funciones.csproj.AssemblyReference.cache
+D:\PC\Documentos\Noel\Universidad Latina de Panamá\Cuatrimestre 6\Programacion V\Actividad sobre Funciones\obj\Debug\net5.0\Actividad sobre Funciones.GeneratedMSBuildEditorConfig.editorconfig
+D:\PC\Documentos\Noel\Universidad Latina de Panamá\Cuatrimestre 6\Programacion V\Actividad sobre Funciones\obj\Debug\net5.0\Actividad sobre Funciones.AssemblyInfoInputs.cache
+D:\PC\Documentos\Noel\Universidad Latina de Panamá\Cuatrimestre 6\Programacion V\Actividad sobre Funciones\obj\Debug\net5.0\Actividad sobre Funciones.AssemblyInfo.cs
+D:\PC\Documentos\Noel\Universidad Latina de Panamá\Cuatrimestre 6\Programacion V\Actividad sobre Funciones\obj\Debug\net5.0\Actividad sobre Funciones.csproj.CoreCompileInputs.cache
+D:\PC\Documentos\Noel\Universidad Latina de Panamá\Cuatrimestre 6\Programacion V\Actividad sobre Funciones\obj\Debug\net5.0\Actividad sobre Funciones.dll
+D:\PC\Documentos\Noel\Universidad Latina de Panamá\Cuatrimestre 6\Programacion V\Actividad sobre Funciones\obj\Debug\net5.0\ref\Actividad sobre Funciones.dll
+D:\PC\Documentos\Noel\Universidad Latina de Panamá\Cuatrimestre 6\Programacion V\Actividad sobre Funciones\obj\Debug\net5.0\Actividad sobre Funciones.pdb
+D:\PC\Documentos\Noel\Universidad Latina de Panamá\Cuatrimestre 6\Programacion V\Actividad sobre Funciones\obj\Debug\net5.0\Actividad sobre Funciones.genruntimeconfig.cache
